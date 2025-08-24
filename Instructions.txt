@@ -1,0 +1,20 @@
+Edit the index.html page.
+  Inside the file, you’ll see a placeholder section.
+  Replace it with your answers to the five fun questions below.
+  Keep your answers safe—don’t share personal identifying information (PII) like phone numbers, addresses, or emails.
+The Questions:
+  What’s your favorite food? 🍕
+  If you could instantly learn one skill, what would it be?
+  What’s a movie, show, or game you never get tired of? 🎬🎮
+  If you had a superpower, what would it be? 🦸
+  What’s your dream travel destination? ✈️
+Commit (Save) your changes.
+Write a short commit message like:
+  Answered 5 fun questions
+  Then commit your work to your repository.
+View your page.
+  Go to your repository’s Settings → Pages (sometimes shown as “Deployments → Pages”).
+  Open the link in your browser—you should see your answers displayed!
+Submit your link.
+  Copy your GitHub Pages URL (something like https://yourusername.github.io/reponame).
+  Submit it in Brightspace under Assignment #1: Intro to GitHub.
